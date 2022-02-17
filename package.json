@@ -1,7 +1,7 @@
 {
   "name": "w6_3133_nodejs_express_apollo_graphql_template",
   "version": "1.0.0",
-  "description": "Advanve mongodb, mongoos and express",
+  "description": "Advanced mongodb, mongoose and express",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -31,6 +31,7 @@
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
+    "graphql": "^15.8.0",
     "mongoose": "^5.11.15"
   },
   "devDependencies": {
